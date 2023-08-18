@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  LocalizationExample
+
+  Created by Emine Sinem on 13.08.2023.
+  
+*/
+
+"welcome_title" = "Hoşgeldiniz";
+"language_selection_title" = "Dil Seçiniz";
+"turkish_selection_button_title" = "Türkçe";
+"english_selection_button_title" = "İngilizce";
+"continue_button_title" = "Devam";
+"name_entry_title" = "Lütfen İsminizi Giriniz";
+"email_entry_title" = "Lütfen emailinizi Giriniz";
+"login_button_title" = "Giriş Yap";
+"error_title" = "Hata";
+"name_error_message" = "Lütfen isminizi giriniz";
+"email_error_message" = "Lütfen emailinizi giriniz";
+"ok_button_title" = "Tamam";
+"back_button_title" = "Geri";

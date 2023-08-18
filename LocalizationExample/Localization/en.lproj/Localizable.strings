@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  LocalizationExample
+
+  Created by Emine Sinem on 13.08.2023.
+  
+*/
+
+"welcome_title" = "Welcome";
+"language_selection_title" = "Please select a language";
+"turkish_selection_button_title" = "Turkish";
+"english_selection_button_title" = "English";
+"continue_button_title" = "Continue";
+"name_entry_title" = "Please enter your name";
+"email_entry_title" = "Please enter your email";
+"login_button_title" = "Login";
+"error_title" = "Error";
+"name_error_message" = "Please enter your name";
+"email_error_message" = "Please enter your email";
+"ok_button_title" = "Okay";
+"back_button_title" = "Back";
+
